@@ -1,0 +1,20 @@
+[0.008s] Invoking command in '/work/prac_ws/build/dynamixel_workbench': AMENT_PREFIX_PATH=/work/prac_ws/install/dynamixel_workbench_toolbox:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/work/prac_ws/install/dynamixel_workbench_toolbox:/opt/ros/humble LD_LIBRARY_PATH=/work/prac_ws/install/dynamixel_workbench_toolbox/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /work/prac_ws/build/dynamixel_workbench -- -j20 -l20
+[0.034s] Invoked command in '/work/prac_ws/build/dynamixel_workbench' returned '0': AMENT_PREFIX_PATH=/work/prac_ws/install/dynamixel_workbench_toolbox:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/work/prac_ws/install/dynamixel_workbench_toolbox:/opt/ros/humble LD_LIBRARY_PATH=/work/prac_ws/install/dynamixel_workbench_toolbox/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /work/prac_ws/build/dynamixel_workbench -- -j20 -l20
+[0.035s] Invoking command in '/work/prac_ws/build/dynamixel_workbench': AMENT_PREFIX_PATH=/work/prac_ws/install/dynamixel_workbench_toolbox:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/work/prac_ws/install/dynamixel_workbench_toolbox:/opt/ros/humble LD_LIBRARY_PATH=/work/prac_ws/install/dynamixel_workbench_toolbox/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --install /work/prac_ws/build/dynamixel_workbench
+[0.040s] -- Install configuration: ""
+[0.040s] -- Up-to-date: /work/prac_ws/install/dynamixel_workbench/share/ament_index/resource_index/package_run_dependencies/dynamixel_workbench
+[0.040s] -- Up-to-date: /work/prac_ws/install/dynamixel_workbench/share/ament_index/resource_index/parent_prefix_path/dynamixel_workbench
+[0.040s] -- Up-to-date: /work/prac_ws/install/dynamixel_workbench/share/dynamixel_workbench/environment/ament_prefix_path.sh
+[0.040s] -- Up-to-date: /work/prac_ws/install/dynamixel_workbench/share/dynamixel_workbench/environment/ament_prefix_path.dsv
+[0.040s] -- Up-to-date: /work/prac_ws/install/dynamixel_workbench/share/dynamixel_workbench/environment/path.sh
+[0.040s] -- Up-to-date: /work/prac_ws/install/dynamixel_workbench/share/dynamixel_workbench/environment/path.dsv
+[0.040s] -- Up-to-date: /work/prac_ws/install/dynamixel_workbench/share/dynamixel_workbench/local_setup.bash
+[0.040s] -- Up-to-date: /work/prac_ws/install/dynamixel_workbench/share/dynamixel_workbench/local_setup.sh
+[0.040s] -- Up-to-date: /work/prac_ws/install/dynamixel_workbench/share/dynamixel_workbench/local_setup.zsh
+[0.041s] -- Up-to-date: /work/prac_ws/install/dynamixel_workbench/share/dynamixel_workbench/local_setup.dsv
+[0.041s] -- Installing: /work/prac_ws/install/dynamixel_workbench/share/dynamixel_workbench/package.dsv
+[0.041s] -- Up-to-date: /work/prac_ws/install/dynamixel_workbench/share/ament_index/resource_index/packages/dynamixel_workbench
+[0.041s] -- Up-to-date: /work/prac_ws/install/dynamixel_workbench/share/dynamixel_workbench/cmake/dynamixel_workbenchConfig.cmake
+[0.041s] -- Up-to-date: /work/prac_ws/install/dynamixel_workbench/share/dynamixel_workbench/cmake/dynamixel_workbenchConfig-version.cmake
+[0.041s] -- Up-to-date: /work/prac_ws/install/dynamixel_workbench/share/dynamixel_workbench/package.xml
+[0.042s] Invoked command in '/work/prac_ws/build/dynamixel_workbench' returned '0': AMENT_PREFIX_PATH=/work/prac_ws/install/dynamixel_workbench_toolbox:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/work/prac_ws/install/dynamixel_workbench_toolbox:/opt/ros/humble LD_LIBRARY_PATH=/work/prac_ws/install/dynamixel_workbench_toolbox/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --install /work/prac_ws/build/dynamixel_workbench

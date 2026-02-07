@@ -1,0 +1,2 @@
+Invoking command in '/work/prac_ws/build/dynamixel_workbench_toolbox': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /work/prac_ws/build/dynamixel_workbench_toolbox -- -j20 -l20
+Invoked command in '/work/prac_ws/build/dynamixel_workbench_toolbox' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /work/prac_ws/build/dynamixel_workbench_toolbox -- -j20 -l20

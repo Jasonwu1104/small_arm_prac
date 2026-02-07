@@ -1,0 +1,9 @@
+[submodule "prac_ws/src/dynamixel_hardware"]
+	path = prac_ws/src/dynamixel_hardware
+	url = https://github.com/dynamixel-community/dynamixel_hardware.git
+[submodule "prac_ws/src/dynamixel-workbench"]
+	path = prac_ws/src/dynamixel-workbench
+	url = https://github.com/ROBOTIS-GIT/dynamixel-workbench.git
+[submodule "prac_ws/src/dynamixel-workbench-msgs"]
+	path = prac_ws/src/dynamixel-workbench-msgs
+	url = https://github.com/ROBOTIS-GIT/dynamixel-workbench-msgs.git

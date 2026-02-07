@@ -1,0 +1,9 @@
+/work/prac_ws/build/small_arm_prac/CMakeFiles/uninstall.dir
+/work/prac_ws/build/small_arm_prac/CMakeFiles/small_arm_prac_uninstall.dir
+/work/prac_ws/build/small_arm_prac/CMakeFiles/test.dir
+/work/prac_ws/build/small_arm_prac/CMakeFiles/edit_cache.dir
+/work/prac_ws/build/small_arm_prac/CMakeFiles/rebuild_cache.dir
+/work/prac_ws/build/small_arm_prac/CMakeFiles/list_install_components.dir
+/work/prac_ws/build/small_arm_prac/CMakeFiles/install.dir
+/work/prac_ws/build/small_arm_prac/CMakeFiles/install/local.dir
+/work/prac_ws/build/small_arm_prac/CMakeFiles/install/strip.dir

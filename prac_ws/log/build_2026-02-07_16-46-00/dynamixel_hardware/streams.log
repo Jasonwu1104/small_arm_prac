@@ -1,0 +1,85 @@
+[0.006s] Invoking command in '/work/prac_ws/build/dynamixel_hardware': AMENT_PREFIX_PATH=/work/prac_ws/install/dynamixel_workbench_toolbox:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/work/prac_ws/install/dynamixel_workbench_toolbox:/opt/ros/humble LD_LIBRARY_PATH=/work/prac_ws/install/dynamixel_workbench_toolbox/lib:${LD_LIBRARY_PATH} /usr/bin/cmake /work/prac_ws/src/dynamixel_hardware/dynamixel_hardware -DCMAKE_INSTALL_PREFIX=/work/prac_ws/install/dynamixel_hardware
+[0.051s] -- The C compiler identification is GNU 11.4.0
+[0.090s] -- The CXX compiler identification is GNU 11.4.0
+[0.095s] -- Detecting C compiler ABI info
+[0.152s] -- Detecting C compiler ABI info - done
+[0.157s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.157s] -- Detecting C compile features
+[0.157s] -- Detecting C compile features - done
+[0.160s] -- Detecting CXX compiler ABI info
+[0.230s] -- Detecting CXX compiler ABI info - done
+[0.235s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.236s] -- Detecting CXX compile features
+[0.236s] -- Detecting CXX compile features - done
+[0.238s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.365s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.464s] -- Found rclcpp: 16.0.17 (/opt/ros/humble/share/rclcpp/cmake)
+[0.499s] -- Found rosidl_generator_c: 3.1.8 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.504s] -- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.511s] -- Found rosidl_generator_cpp: 3.1.8 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.522s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.535s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.569s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.572s] -- Found rmw_fastrtps_cpp: 6.2.9 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.641s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.663s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.699s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.707s] -- Looking for pthread.h
+[0.759s] -- Looking for pthread.h - found
+[0.759s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.816s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.816s] -- Found Threads: TRUE  
+[0.852s] -- Found rclcpp_lifecycle: 16.0.17 (/opt/ros/humble/share/rclcpp_lifecycle/cmake)
+[0.876s] -- Found hardware_interface: 2.53.0 (/opt/ros/humble/share/hardware_interface/cmake)
+[0.988s] -- Found dynamixel_workbench_toolbox: 2.2.3 (/work/prac_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/cmake)
+[0.994s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.063s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.064s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.064s] -- Configured cppcheck include dirs: /work/prac_ws/src/dynamixel_hardware/dynamixel_hardware/include
+[1.064s] -- Configured cppcheck exclude dirs and/or files: 
+[1.065s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.065s] -- Configured cpplint exclude dirs and/or files: 
+[1.065s] -- Added test 'lint_cmake' to check CMake code style
+[1.066s] -- Added test 'uncrustify' to check C / C++ code style
+[1.066s] -- Configured uncrustify additional arguments: 
+[1.066s] -- Added test 'xmllint' to check XML markup files
+[1.068s] -- Configuring done
+[1.077s] -- Generating done
+[1.080s] -- Build files have been written to: /work/prac_ws/build/dynamixel_hardware
+[1.086s] Invoked command in '/work/prac_ws/build/dynamixel_hardware' returned '0': AMENT_PREFIX_PATH=/work/prac_ws/install/dynamixel_workbench_toolbox:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/work/prac_ws/install/dynamixel_workbench_toolbox:/opt/ros/humble LD_LIBRARY_PATH=/work/prac_ws/install/dynamixel_workbench_toolbox/lib:${LD_LIBRARY_PATH} /usr/bin/cmake /work/prac_ws/src/dynamixel_hardware/dynamixel_hardware -DCMAKE_INSTALL_PREFIX=/work/prac_ws/install/dynamixel_hardware
+[1.087s] Invoking command in '/work/prac_ws/build/dynamixel_hardware': AMENT_PREFIX_PATH=/work/prac_ws/install/dynamixel_workbench_toolbox:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/work/prac_ws/install/dynamixel_workbench_toolbox:/opt/ros/humble LD_LIBRARY_PATH=/work/prac_ws/install/dynamixel_workbench_toolbox/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /work/prac_ws/build/dynamixel_hardware -- -j20 -l20
+[1.130s] [ 50%] [32mBuilding CXX object CMakeFiles/dynamixel_hardware.dir/src/dynamixel_hardware.cpp.o[0m
+[8.504s] [100%] [32m[1mLinking CXX shared library libdynamixel_hardware.so[0m
+[8.641s] [100%] Built target dynamixel_hardware
+[8.653s] Invoked command in '/work/prac_ws/build/dynamixel_hardware' returned '0': AMENT_PREFIX_PATH=/work/prac_ws/install/dynamixel_workbench_toolbox:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/work/prac_ws/install/dynamixel_workbench_toolbox:/opt/ros/humble LD_LIBRARY_PATH=/work/prac_ws/install/dynamixel_workbench_toolbox/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /work/prac_ws/build/dynamixel_hardware -- -j20 -l20
+[8.655s] Invoking command in '/work/prac_ws/build/dynamixel_hardware': AMENT_PREFIX_PATH=/work/prac_ws/install/dynamixel_workbench_toolbox:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/work/prac_ws/install/dynamixel_workbench_toolbox:/opt/ros/humble LD_LIBRARY_PATH=/work/prac_ws/install/dynamixel_workbench_toolbox/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --install /work/prac_ws/build/dynamixel_hardware
+[8.661s] -- Install configuration: ""
+[8.661s] -- Installing: /work/prac_ws/install/dynamixel_hardware/share/dynamixel_hardware/dynamixel_hardware.xml
+[8.661s] -- Installing: /work/prac_ws/install/dynamixel_hardware/lib/libdynamixel_hardware.so
+[8.662s] -- Set runtime path of "/work/prac_ws/install/dynamixel_hardware/lib/libdynamixel_hardware.so" to ""
+[8.662s] -- Installing: /work/prac_ws/install/dynamixel_hardware/include
+[8.662s] -- Installing: /work/prac_ws/install/dynamixel_hardware/include/dynamixel_hardware
+[8.662s] -- Installing: /work/prac_ws/install/dynamixel_hardware/include/dynamixel_hardware/visiblity_control.h
+[8.662s] -- Installing: /work/prac_ws/install/dynamixel_hardware/include/dynamixel_hardware/dynamixel_hardware.hpp
+[8.663s] -- Installing: /work/prac_ws/install/dynamixel_hardware/share/dynamixel_hardware/environment/library_path.sh
+[8.663s] -- Installing: /work/prac_ws/install/dynamixel_hardware/share/dynamixel_hardware/environment/library_path.dsv
+[8.663s] -- Installing: /work/prac_ws/install/dynamixel_hardware/share/ament_index/resource_index/package_run_dependencies/dynamixel_hardware
+[8.663s] -- Installing: /work/prac_ws/install/dynamixel_hardware/share/ament_index/resource_index/parent_prefix_path/dynamixel_hardware
+[8.663s] -- Installing: /work/prac_ws/install/dynamixel_hardware/share/dynamixel_hardware/environment/ament_prefix_path.sh
+[8.663s] -- Installing: /work/prac_ws/install/dynamixel_hardware/share/dynamixel_hardware/environment/ament_prefix_path.dsv
+[8.663s] -- Installing: /work/prac_ws/install/dynamixel_hardware/share/dynamixel_hardware/environment/path.sh
+[8.663s] -- Installing: /work/prac_ws/install/dynamixel_hardware/share/dynamixel_hardware/environment/path.dsv
+[8.663s] -- Installing: /work/prac_ws/install/dynamixel_hardware/share/dynamixel_hardware/local_setup.bash
+[8.663s] -- Installing: /work/prac_ws/install/dynamixel_hardware/share/dynamixel_hardware/local_setup.sh
+[8.663s] -- Installing: /work/prac_ws/install/dynamixel_hardware/share/dynamixel_hardware/local_setup.zsh
+[8.664s] -- Installing: /work/prac_ws/install/dynamixel_hardware/share/dynamixel_hardware/local_setup.dsv
+[8.664s] -- Installing: /work/prac_ws/install/dynamixel_hardware/share/dynamixel_hardware/package.dsv
+[8.664s] -- Installing: /work/prac_ws/install/dynamixel_hardware/share/ament_index/resource_index/packages/dynamixel_hardware
+[8.664s] -- Installing: /work/prac_ws/install/dynamixel_hardware/share/ament_index/resource_index/hardware_interface__pluginlib__plugin/dynamixel_hardware
+[8.664s] -- Installing: /work/prac_ws/install/dynamixel_hardware/share/dynamixel_hardware/cmake/ament_cmake_export_include_directories-extras.cmake
+[8.664s] -- Installing: /work/prac_ws/install/dynamixel_hardware/share/dynamixel_hardware/cmake/ament_cmake_export_libraries-extras.cmake
+[8.664s] -- Installing: /work/prac_ws/install/dynamixel_hardware/share/dynamixel_hardware/cmake/ament_cmake_export_dependencies-extras.cmake
+[8.664s] -- Installing: /work/prac_ws/install/dynamixel_hardware/share/dynamixel_hardware/cmake/dynamixel_hardwareConfig.cmake
+[8.664s] -- Installing: /work/prac_ws/install/dynamixel_hardware/share/dynamixel_hardware/cmake/dynamixel_hardwareConfig-version.cmake
+[8.664s] -- Installing: /work/prac_ws/install/dynamixel_hardware/share/dynamixel_hardware/package.xml
+[8.666s] Invoked command in '/work/prac_ws/build/dynamixel_hardware' returned '0': AMENT_PREFIX_PATH=/work/prac_ws/install/dynamixel_workbench_toolbox:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/work/prac_ws/install/dynamixel_workbench_toolbox:/opt/ros/humble LD_LIBRARY_PATH=/work/prac_ws/install/dynamixel_workbench_toolbox/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --install /work/prac_ws/build/dynamixel_hardware
